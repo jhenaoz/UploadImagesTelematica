@@ -1,0 +1,14 @@
+body{
+	background-color: #d8d8d8;
+}
+.imagenes li{
+	display: inline;
+}
+img{
+	width: 45%;
+	padding: 10px 15px;
+	height: 200px;
+}
+input[type="file"]{
+	display: inline;
+}
