@@ -29,7 +29,7 @@ $RECYCLE.BIN/
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar need this for libraries used...#
 *.war
 *.ear
 
